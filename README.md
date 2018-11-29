@@ -1,10 +1,10 @@
-# MILE Manuals and Documentations 
-Free, Fast, Secure and Stable
+# Mile User Manuals and Documentation 
+Free, Fast, Secure and Stable Coin For The Real Economy
 
 <!--ts-->
-   * [Installation Master Node](https://github.com/mile-core/mile-docs/wiki/Installation-Master-Node)
+   * [Master Node Installation](https://github.com/mile-core/mile-docs/wiki/Installation-Master-Node)
    * [Cli wallet sources](https://github.com/mile-core/mile-csa-jsonrpc-client)
-   * [Sources](https://github.com/mile-core)
+   * [More sources](https://github.com/mile-core)
    * [FAQ](https://github.com/mile-core/mile-docs/wiki/faq)
-   * [Home page](https://mile.global)
+   * [Mile Unity Foundation Website](https://mile.global)
 <!--te-->
